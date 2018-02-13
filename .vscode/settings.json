@@ -1,0 +1,13 @@
+{
+	"editor.detectIndentation": false,
+	"C_Cpp.intelliSenseEngine": "Default",
+	"files.associations": {
+		"stdio.h": "c",
+		"init.h": "c",
+		"module.h": "c",
+		"types.h": "c",
+		"kdev_t.h": "c",
+		"fs.h": "c"
+	},
+  "editor.formatOnSave":true,
+}
